@@ -1,0 +1,6 @@
+{
+  "name": "La Pelle à Pizza - Martil",
+  "description": "Authentic Italian pizzas and signature dishes in Martil, highlighting culinary craftsmanship and local freshness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
